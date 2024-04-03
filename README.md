@@ -1,7 +1,7 @@
 # CODE-CHALLENGE-WK1
 
 ## AUTHOR 
-Teddy Lowell ()
+Teddy Lowell (https://github.com/lowellteddy)
 
 ## DESCRIPTION
 ### Student Grade Generator
@@ -14,10 +14,12 @@ This program checks the speed of the car  and outputs the demerit points if the 
 This program calculates the net salary ,when the basic salary and benefits are provided
 
 ## LIVE SITE
-
+https://github.com/lowellteddy/Teddy.lowell--code_challenge_WK1
 
 ## CONTACTS
-
+you can contact me at:
+Github (https://github.com/lowellteddy)
+Email  (https://mail.google.com/mail)
 
 ## LICENSE
 MIT license
