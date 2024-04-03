@@ -1,7 +1,7 @@
 # CODE-CHALLENGE-WK1
 
 ## AUTHOR 
-Teddy Lowell (https://github.com/lowellteddy)
+[Teddy Lowell](https://github.com/lowellteddy)
 
 ## DESCRIPTION
 ### Student Grade Generator
@@ -18,8 +18,8 @@ https://github.com/lowellteddy/Teddy.lowell--code_challenge_WK1
 
 ## CONTACTS
 you can contact me at:
-Github (https://github.com/lowellteddy)
-Email  (https://mail.google.com/mail)
+[Github](https://github.com/lowellteddy)
+[Email] (https://mail.google.com/mail)
 
 ## LICENSE
 MIT license
